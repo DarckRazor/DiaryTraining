@@ -11,7 +11,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:inputType="phone"
-            android:hint="Номер телефона"
+            android:hint="Номер телефонав"
             android:ems="15"
             android:id="@+id/editTextPhone2"
             app:layout_constraintTop_toTopOf="parent"
