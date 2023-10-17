@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.DiaryTraining" parent="Base.Theme.DiaryTraining"/>
+    <style name="Theme.DiaryTraining.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.DiaryTraining.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.DiaryTraining.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>
