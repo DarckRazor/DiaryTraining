@@ -5,4 +5,20 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity"/>
+        tools:context=".MainActivity">
+    <Button
+            android:text="Войти"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content" android:id="@+id/signin" tools:layout_editor_absoluteY="436dp"
+            tools:layout_editor_absoluteX="80dp"/>
+    <Button
+            android:text="Зарегестрироваться"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content" android:id="@+id/registr" tools:layout_editor_absoluteY="516dp"
+            tools:layout_editor_absoluteX="80dp"/>
+    <TextView
+            android:text="Добро пожаловать!"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/textView2" tools:layout_editor_absoluteY="209dp"
+            tools:layout_editor_absoluteX="142dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

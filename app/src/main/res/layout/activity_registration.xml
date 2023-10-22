@@ -7,4 +7,12 @@
         android:layout_height="match_parent"
         tools:context=".registration.RegistrationActivity">
 
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:id="@+id/editTextPhone" tools:layout_editor_absoluteY="343dp"
+            tools:layout_editor_absoluteX="100dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
