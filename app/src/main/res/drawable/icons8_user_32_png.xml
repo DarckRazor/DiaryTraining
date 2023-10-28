@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8196078431372549"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8196078431372549"
+        android:strokeWidth="1"
+        android:pathData="M 19.5 4 Q 22.5 5.5 19.5 7 Q 16.5 5.5 19.5 4 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8196078431372549"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8196078431372549"
+        android:strokeWidth="1"
+        android:pathData="M 19.5 11 Q 22.5 12.5 19.5 14 Q 16.5 12.5 19.5 11 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M 0 0 L 32 0 L 32 32 L 0 32 L 0 0 Z M 14 3 L 11 4 L 10 7 Q 9 12 11 14 L 14 15 Q 19 16 21 14 L 22 12 Q 23 6 21 4 Q 19 2 14 3 Z M 11 17 L 7 19 Q 3 20 4 26 L 10 29 Q 20 31 26 28 Q 29 27 28 22 Q 24 15 11 17 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M 15.5 5 L 19 6 L 20 9.5 L 19 12 L 15.5 13 L 13 12 L 12 8.5 L 13 6 L 15.5 5 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M 14.5 19 Q 22.8 18.8 26 23.5 L 22.5 26 Q 17 24.5 15.5 27 Q 14.2 24.8 9.5 26 L 6 23.5 L 8.5 21 L 14.5 19 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8823529411764706"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8823529411764706"
+        android:strokeWidth="1"
+        android:pathData="M 12.5 4 L 11.5 6 L 12.5 4 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8823529411764706"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8823529411764706"
+        android:strokeWidth="1"
+        android:pathData="M 11.5 12 L 12.5 14 L 11.5 12 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8823529411764706"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8823529411764706"
+        android:strokeWidth="1"
+        android:pathData="M 22.5 26 L 23.5 28 L 22.5 26 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.8823529411764706"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.8823529411764706"
+        android:strokeWidth="1"
+        android:pathData="M 14.5 28 L 18 28.5 L 14.5 29 L 14.5 28 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.996078431372549"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.996078431372549"
+        android:strokeWidth="1"
+        android:pathData="M 13.5 4 Q 19.8 2.8 21 6.5 Q 22.3 12.8 18.5 14 Q 12.3 15.3 11 11.5 Q 9.8 5.3 13.5 4 Z M 14 5 Q 11 6 12 12 Q 13 14 19 13 Q 21 12 20 7 Q 19 4 14 5 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.996078431372549"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.996078431372549"
+        android:strokeWidth="1"
+        android:pathData="M 15.5 17 L 21.5 18 L 27 21.5 Q 28 26 25.5 27 Q 19.6 29.6 9.5 28 L 5 25.5 Q 4 21 6.5 20 L 15.5 17 Z M 11 19 L 8 21 Q 5 20 6 25 L 10 27 L 23 27 L 25 26 Q 27 25 26 21 Q 21 17 11 19 Z" />
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.1803921568627451"
+        android:strokeColor="#000000"
+        android:strokeAlpha="0.1803921568627451"
+        android:strokeWidth="1"
+        android:pathData="M 16.5 26 L 19 26.5 L 16.5 27 L 16.5 26 Z" />
+</vector>
